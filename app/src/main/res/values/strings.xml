@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Santa Fe de Antioquia</string>
+    <string name="titulo">SantaFesacho</string>
+    <string name="username">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="Perfil">Mi Perfil</string>
+    <string name="salir">LogOut</string>
+    <string name="Rusuario">Nombre de Usuario</string>
+    <string name="Rcontrasena">Ingrese contraseña</string>
+    <string name="Rrepcontrasena">Repita la contraseña</string>
+    <string name="correo">Correo electronico</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Username">Nombre de usuario:</string>
+    <string name="Contra">Contraseña:</string>
+    <string name="mail">Correo:</string>
+</resources>

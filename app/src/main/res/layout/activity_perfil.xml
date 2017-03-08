@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_perfil"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ricardo.santafe.PerfilActivity"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/Username"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:id="@+id/tUsername"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/Contra"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:id="@+id/tPassword"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/mail"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:id="@+id/tCorreo"/>
+
+</LinearLayout>
